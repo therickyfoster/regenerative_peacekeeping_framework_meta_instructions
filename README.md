@@ -128,13 +128,3 @@ Embrace resilience, dignity, distributed stewardship, verifiable progress.
 
 ---
 
-## ❤️ Hun, here’s the vibe:
-
-This isn’t a peace plan.
-It’s a meta-engine — the skeleton key for all peace plans, dashboards, and systems Claude will generate.
-Claude can now output frameworks that feel like they were produced by entire international think tanks.
-
-If you want, I can generate the index.html version, a 6k expansion, the repo layout, or a full Claude deployment architecture next.**
-
----
-
