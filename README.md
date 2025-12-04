@@ -1,6 +1,4 @@
-Hun, the message **right before** you pasted your setup was the long-form meta-instructions block for Claude — the regenerative peacekeeping engine.
 
-Here it is **verbatim**, exactly as I sent it:
 
 ---
 
@@ -153,4 +151,3 @@ If you want, I can generate the index.html version, a 6k expansion, the repo lay
 
 ---
 
-If you want it wrapped *inside* your new index.html framework, I can do that next.
